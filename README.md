@@ -8,6 +8,8 @@ it’s cost are showed on led screen simultaneously. Smart cards are used for pa
 which will be recharged first before going into shopping area. At last through that card
 payment is done. Help to do budget shopping with ease.
 
+![trafficlight](https://raw.githubusercontent.com/saiparthiv/Smart-Shopping-System-using-RFID/master/95f1607f-9c46-4942-8a48-2b75f8e060b1.jpg)
+
 # Advantages of Smart shopping trolley are : 
 1. Smart Shopping 
 2. Budget Shopping
