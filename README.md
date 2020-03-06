@@ -36,3 +36,6 @@ of such models will more increase.
 # Credits
 * Puru Parmar
 * Sanjay Killamsetty
+
+# Research Paper
+You can read our research paper [here](IEEE%20Paper%20on%20Smart%20Shopping%20System.pdf)
