@@ -9,11 +9,11 @@ which will be recharged first before going into shopping area. At last through t
 payment is done. Help to do budget shopping with ease.
 
 # Advantages of Smart shopping trolley are : 
-1)Smart Shopping 
-2)Budget Shopping
-3)Reduces time by avoiding long Queues and cash payment. 
-4)Safety and rack of Inventory and product details. 
-5)Shopping details are kept track customer behaviour on which analysis can be done to improve shopping.
+1. Smart Shopping 
+2. Budget Shopping
+3. Reduces time by avoiding long Queues and cash payment. 
+4. Safety and rack of Inventory and product details. 
+5. Shopping details are kept track customer behaviour on which analysis can be done to improve shopping.
 
 # Future Enhancements
 The following up-gradations can be made in the project to make it more user friendly.
@@ -32,5 +32,5 @@ in shopping malls and helps to digitalis the business.in coming years the implem
 of such models will more increase.
 
 # Credits
-Puru Parmar
-Sanjay Killamsetty
+* Puru Parmar
+* Sanjay Killamsetty
